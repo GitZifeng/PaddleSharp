@@ -58,7 +58,6 @@ public class LocalDetectionModel : DetectionModel
     public static LocalDetectionModel[] All => new[]
     {
         ChineseV4,
-        //ChineseServerV4,
         ChineseV3,
         EnglishV3,
         MultiLanguageV3,
